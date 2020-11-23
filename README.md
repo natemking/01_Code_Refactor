@@ -14,8 +14,10 @@ The client has presented an already constructed webpage that is lacking in prope
 
 https://natemking.github.io/01_Code_Refactor/
 
+<details>
+<summary>Screenshot of page</summary>
 ![https://natemking.github.io/01_Code_Refactor/ screenshot](./assets/images/natemking.github.io_01_Code_Refactor_.png)
-
+</details>
 
 ## Credits
 * [W3 schools tutorial on HTML semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
