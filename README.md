@@ -16,7 +16,9 @@ https://natemking.github.io/01_Code_Refactor/
 
 <details>
 <summary>Screenshot of page</summary>
+
 ![https://natemking.github.io/01_Code_Refactor/ screenshot](./assets/images/natemking.github.io_01_Code_Refactor_.png)
+
 </details>
 
 ## Credits
